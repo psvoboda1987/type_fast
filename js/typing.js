@@ -36,8 +36,8 @@ function WordGame() {
       // a-z (26 letters)
       65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82,
       83, 84, 85, 86, 87, 88, 89, 90,
-      // enter, backspace, shift, F5, Ctrl  keycode
-      13, 8, 16, 116, 17
+      // enter, dash, backspace, shift, F5, Ctrl  keycode
+      13, 189, 8, 16, 116, 17
     ],
 
     start: function () {
